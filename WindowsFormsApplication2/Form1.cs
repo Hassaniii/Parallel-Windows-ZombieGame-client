@@ -16,7 +16,7 @@ namespace WindowsFormsApplication2
     {
         public int x = 100;
         public int y = 100;
-        public int globalport = 950;
+        public int globalport = 11000;
         public Form1()
         {
             InitializeComponent();
@@ -35,8 +35,10 @@ namespace WindowsFormsApplication2
         {
             try
             {
+                //192.168.3.106
                 UdpClient c = new UdpClient();
-                IPEndPoint ip = new IPEndPoint(IPAddress.Parse("172.16.1.114"), globalport);
+                //IPEndPoint ip = new IPEndPoint(IPAddress.Parse("172.16.1.114"), globalport);
+                IPEndPoint ip = new IPEndPoint(IPAddress.Parse("192.168.3.106"), globalport);
                 byte[] data = Encoding.Unicode.GetBytes(x.ToString() + "," + y.ToString());
                 c.Connect(ip);
                 c.Send(data, data.Length);

@@ -14,3 +14,12 @@ C:\Users\lab009\Desktop\New folder (3)\WindowsFormsApplication2\WindowsFormsAppl
 C:\Users\lab009\Desktop\New folder (3)\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
 C:\Users\lab009\Desktop\New folder (3)\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
 C:\Users\lab009\Desktop\New folder (3)\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Hassaniii\Desktop\Files\Np\project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Hassaniii\Desktop\Files\Np\project\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Hassaniii\Desktop\Files\Np\project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+C:\Users\Hassaniii\Desktop\Files\Np\project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Hassaniii\Desktop\Files\Np\project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Hassaniii\Desktop\Files\Np\project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Hassaniii\Desktop\Files\Np\project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Hassaniii\Desktop\Files\Np\project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Hassaniii\Desktop\Files\Np\project\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
